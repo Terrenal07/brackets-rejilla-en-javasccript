@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+    font-size: 14pt;
+}
+#contenido{
+    border:1px red solid;
+    padding: 10px;
+    background-color: yellow;
+}
+div#contenido p{
+color: darkblue;
+    text-align: justify-all;
+    font-size: 2ex;
+}
+
+div#imagen{
+    border: 1 red solid;
+    
+}
+
+nav{
+    background-color: blue;
+}
